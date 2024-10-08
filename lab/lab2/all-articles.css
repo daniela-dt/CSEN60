@@ -1,0 +1,35 @@
+header {
+  display:flex;
+  justify-content: flex-end;
+  border-bottom: 0.15rem solid #54a0ff;
+  padding:3rem 1rem 1rem 1rem ;
+}
+
+input[type="search"] {
+  background-color:white;
+  border: .1rem;
+  border-color: darkgray;
+  display:flex;
+  justify-content: flex-end;
+  padding:0.5rem 1rem 0.5rem 1rem ;
+  border-style: solid;
+  border-radius: 5px;
+  
+}
+
+article h1 a {
+  color: #54a0ff;
+  text-decoration: none;
+}
+
+main{
+  display:flex;
+  justify-content: space-around;
+  flex-wrap:wrap;
+}
+
+article{
+    flex:0 0 30%;
+    min-width: 30ch;
+    max-width: 50ch;
+}

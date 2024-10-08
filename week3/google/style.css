@@ -1,0 +1,29 @@
+/*
+
+the old way of doing horixontal layout
+li{
+    display:inline;
+} */
+
+/* The new way of doing horizaontal layout*/
+
+ul{
+    display:flex;
+    /*by default, it has flex direction:row*/
+    list-style: none;
+    gap: 16px;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+}
+button{
+    padding: 0.5rem 2rem;
+    color: #3c4843;
+    background-color: #f8f9fa;
+    border:1px solid #f8f9fa;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}

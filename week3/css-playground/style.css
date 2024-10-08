@@ -1,0 +1,35 @@
+/*
+order of precedence
+1. Inline style
+2. Internal styles
+3. External styles
+
+Caveat: !important will override any precedence
+*/
+
+body {
+    background-color: #1c87c9;
+    }
+
+html{
+    font-family: roboto;
+}
+p{
+    color: purple;
+    /* background-color: red; */
+}
+
+/*Class selection*/
+
+.middle-p{
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*Class selection*/
+#main-text{
+
+    line-height: 30px;
+
+}
