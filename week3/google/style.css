@@ -43,8 +43,8 @@ main{
 }
 
 main li{
- display: flex; */
- justify-content: center; */
+ display: flex; 
+ justify-content: center; 
 }
 
 body {
@@ -57,7 +57,6 @@ body {
 }
 
 footer {
-       background-color: lightgray;
-    display:flex;
-    margin-top: auto; 
+    position: absolute; 
+    bottom:0;
         }
