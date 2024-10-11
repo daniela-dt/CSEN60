@@ -19,6 +19,18 @@ header, footer{
     justify-content: space-between;
 }
 
+main{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
 button{
     padding: 0.5rem 2rem;
     color: #3c4843;
@@ -34,3 +46,15 @@ button{
     align-items: center;
 
 }
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    background-color: lightgray;
+    display:flex;
+    margin-top: auto;
+        }
