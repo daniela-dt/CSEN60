@@ -1,0 +1,42 @@
+nav ul{
+    display: flex;
+    gap:1.5rem;
+    
+}
+
+header ul{
+    text-decoration: none;
+}
+
+article{
+padding-top: 2rem;
+padding-left: 20rem;
+padding-right:20rem;
+}
+
+footer nav{
+    background-color: white;
+    gap:1.5rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    color:#073164;
+}
+
+time{
+    color: #aaa;
+}
+
+a.primary{
+    color: #54a0ff;
+
+
+}
+
+a.secondary{
+    color:#aaa;
+}

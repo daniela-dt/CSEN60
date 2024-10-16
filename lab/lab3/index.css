@@ -1,0 +1,48 @@
+body {
+    width:100vw;
+    height:100vh;
+    display:flex;
+    text-align:left;
+}
+aside{
+    background-color: #54a0ff ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:8rem;
+
+}
+
+.bio{
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+aside ul{
+    list-style: none;
+    display: flex;
+    gap:2.5rem;
+    
+}
+img{
+    width: 3opx;
+    height: 30px;
+    gap:1rem;
+}
+
+img.profile{
+    width:15rem;
+    height:15rem;
+    border-radius: 15rem;
+}
+
+footer {
+    position: absolute; 
+    bottom:0;
+        }
+
+article {
+display: flex; 
+flex-direction: column;
+justify-content: space-between; 
+margi
