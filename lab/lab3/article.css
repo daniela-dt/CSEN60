@@ -40,3 +40,27 @@ a.primary{
 a.secondary{
     color:#aaa;
 }
+
+::selection {
+    background-color: #54a0ff; 
+    color: black; }
+
+article footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button.img{
+    width: 2rem;
+    height: 2rem;
+}
+#next-article::before{
+    margin-right: 0.5rem;
+    content:".";
+}
+
+#previous-article::after{
+    margin-left: 0.5rem;
+    content:".";
+}

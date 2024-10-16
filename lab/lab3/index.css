@@ -45,4 +45,38 @@ article {
 display: flex; 
 flex-direction: column;
 justify-content: space-between; 
-margi
+margin:4rem;
+        }
+article{
+    padding:3rem;
+}
+
+nav ul{
+    gap:1.5rem;
+
+}
+
+nav{
+    background-color: white;
+}
+
+time{
+    color: #aaa;
+}
+
+a.secondary{
+    color:#aaa;
+}
+
+a.primary{
+    color: #54a0ff;
+}
+
+h1{
+    color:#073164;
+}
+
+aside.h1{
+    padding-bottom:1.5rem;
+}
+
