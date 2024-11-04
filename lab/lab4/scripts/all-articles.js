@@ -58,8 +58,6 @@ for (const article of document.querySelectorAll('article')) {
   
 }
 
-const button = document.createElement('button')
-
 /**
  * Creates a clickable tag button for a given search term (text). When clicked,
  * the button will remove the corresponding tag from both the DOM and the searchTags array.
