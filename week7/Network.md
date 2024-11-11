@@ -15,3 +15,15 @@
     - 200-299: Successful Responses
         - 200 - OK
         - 201 - Created
+
+#### Testing Tools 
+- Network tab in browser
+- DevTools
+- Ping 
+- Curl 
+- Postman
+
+#### DNS(Domain Name System)
+- Computer doesn't understand "www.google.com"
+- They understand 11.11.11.11
+    - An IP address
