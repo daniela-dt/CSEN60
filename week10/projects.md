@@ -22,3 +22,27 @@
 - I find it cool how they used cookies to store the tweets on the page
 - They used google as well, proving that google is essential 
 Could be more specific on some challenges
+
+## Nike
+- They explained what tailwind is and how they incorporated in into their page
+- The page is very clean looking/mimicked the page very precisely
+- They mentioned how the cart took a long time to recreate as they incorporated the server into it
+    - Specifically, when deleting an item in the cart, it will update the data so the item will not appear again when page is refreshed
+
+## Reddit
+- I really like how the side navication bar looks exactly like the Reddit page
+- Their page consisted of a home page and a post page
+- They mentioned how the carousel took a long time to figure out 
+    - I relate to that
+
+## Smolarski
+- Overall, a very impressive website as they renovated a website and implemented 
+- Very impressed at how the search component also works 
+- The accordion pop up method is also really cool concept and did a cool job with the button animations as well.
+- The website overall looks very clean and more clear than the previous website
+- The hover pop up concept is also very clever, yet can be a little annoying at times
+
+## Pinterest
+- Added the home page (profile), the gallery page, and the a Pin page
+- Had trouble with CSS styling, specifially the positioned, but using tips from resources helped
+- Overall, the website is very similar to the real one, good job!
